@@ -8,3 +8,6 @@ tags:
 
 
 This is everything yalla.
+
+- [Pictures and tings](./analyse-picture.md)
+- [Letter of love](./Letter%20of%20love.md)
