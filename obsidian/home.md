@@ -7,4 +7,7 @@ tags:
 
 Check this out:
 
-- [index](./index.md)
+- [Please publish hehe](./index.md)
+- [My home page](home.md)
+- [actual](./actual.md)
+- [Pictures and tings](./analyse-picture.md)
