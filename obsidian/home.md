@@ -1,10 +1,5 @@
----
-share: "true"
-filename: home
-tags:
-  - obsidian
----
-
-Check this out:
-
-- [index](./index.md)
+```dataview
+LIST
+FROM "/"
+where contains()
+```
