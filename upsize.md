@@ -2,7 +2,6 @@
 share: "true"
 filename: upsize
 ---
-
 - [Create a bootable USB for Ubuntu](https://ubuntu.com/tutorials/create-a-usb-stick-on-ubuntu)
 - Shrink the size of the windows partition using dskmgmt.
 - Boot up Ubuntu from the USB.
