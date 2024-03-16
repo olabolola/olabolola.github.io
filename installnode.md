@@ -2,13 +2,11 @@
 filename: installnode
 share: "true"
 ---
-1. Install a node version manager. We will use `nvm`. This is for OSx and Linux only.
-
+### Step 1: Install a node version manager. We will use `nvm`. This is for OSx and Linux only.
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 ```
-
-2. Run 
+### Step 2: Run 
 ```bash
 nvm install node
 ```
@@ -21,7 +19,7 @@ You can specify a node version by
 nvm install 12
 ```
 
-and select which node version you want to use with
+### Step 3: select which node version you want to use with
 
 ```bash
 nvm use 12
